@@ -1,3 +1,24 @@
+## keyboard (jade) - 0.1.1-3
+
+The packages in the `keyboard` repository were released into the `jade` distro by running `/usr/bin/bloom-release keyboard --track jade --rosdistro jade` on `Sat, 05 Dec 2015 14:26:00 -0000`
+
+The `keyboard` package was released.
+
+Version of package(s) in repository `keyboard`:
+- upstream repository: https://github.com/lrse/ros-keyboard.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `0.1.1-2`
+- new version: `0.1.1-3`
+
+Versions of tools used:
+- bloom version: `0.5.20`
+- catkin_pkg version: `0.2.10`
+- rosdep version: `0.11.4`
+- rosdistro version: `0.4.2`
+- vcstools version: `0.1.36`
+
+
 ## keyboard (jade) - 0.1.1-2
 
 The packages in the `keyboard` repository were released into the `jade` distro by running `/usr/bin/bloom-release keyboard --track jade --rosdistro jade` on `Sat, 05 Dec 2015 14:19:05 -0000`
